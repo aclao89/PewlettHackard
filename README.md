@@ -1,7 +1,7 @@
 # PewlettHackard
 
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
+In this assignment, I designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words,I performed the following steps:
 
 
 1. Data Modeling
@@ -16,16 +16,16 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+Inspected the CSVs and sketched out an entity relationship diagram (ERD) of the tables.
 
 Data Engineering
 
-Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+Used the information you have to create a table schema for each of the six CSV files. Specifying data types, primary keys, foreign keys, and other constraints.
 
 Import each CSV file into the corresponding SQL table.
 
 Data Analysis
-Once you have a complete database, do the following:
+I answered the following questions.
 
 
 List the following details of each employee: employee number, last name, first name, gender, and salary.
