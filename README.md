@@ -55,6 +55,4 @@ In descending order, list the frequency count of employee last names, i.e., how 
 Create a bar chart of average salary by title.
 
 
-You may also include a technical report in markdown format, in which you outline the data engineering steps taken in the homework assignment.
-
 
